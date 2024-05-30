@@ -5,11 +5,10 @@
 	width: 300px;
 	opacity: 0.5;
 }
-.movieDetail{
-	width: 60%;
-	position: absolute;
-	left: 100px;
-	top: 150px;
-	text-align: center;
-	font-size: 1em;
+.movieDetail {
+    position: absolute;
+    top: 50%;
+    width: 50%;
+    text-align: center;
+    font-size: 1em;
 }
